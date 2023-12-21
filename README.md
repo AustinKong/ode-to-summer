@@ -11,7 +11,7 @@ Features:
 * Chain notes together in the correct sequence to create a melody
 * Short poems about summer
 * Immersive background effects and gameplay
-* Solutions to puzzles provided in [Release 1.0.0](https://github.com/AustinKong/Helios/releases/tag/1.0.0)
+* Solutions to puzzles provided in [Release 1.0.0](https://github.com/AustinKong/ode-to-summer/releases/tag/v1.0.0)
 
 Some info:
 * Click on the pulsing heart in the main menu to start playing
@@ -26,7 +26,7 @@ Some info:
 ## Getting Started
 ### Deployment
 Download instructions for users (for Windows only):
-1. Download [Release1.0.0.zip](https://github.com/AustinKong/Helios/releases/tag/1.0.0)
+1. Download [Release1.0.0.zip](https://github.com/AustinKong/ode-to-summer/releases/tag/v1.0.0)
 2. Unzip Release1.0.0.zip
 3. Open README.png for a simple tutorial
 4. Open build folder, run 'Ode to Summer.exe'
