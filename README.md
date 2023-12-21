@@ -29,7 +29,7 @@ Download instructions for users (for Windows only):
 1. Download [Release1.0.0.zip](https://github.com/AustinKong/Helios/releases/tag/1.0.0)
 2. Unzip Release1.0.0.zip
 3. Open README.png for a simple tutorial
-3. Open build folder, run 'Ode to Summer.exe'
+4. Open build folder, run 'Ode to Summer.exe'
 ### Dependencies
 * Unity
 ### Installation
